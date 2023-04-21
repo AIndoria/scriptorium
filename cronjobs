@@ -1,0 +1,1 @@
+*/1 * * * * calibredb add /home/username/.config/lib/books-to-add -r --with-library http://localhost:8080#Books --username username --password password && rm -r /home/username/.config/lib/books-to-add/*
